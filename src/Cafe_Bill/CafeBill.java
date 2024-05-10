@@ -50,13 +50,13 @@ public class CafeBill {
         }
 
         // Apply discount if applicable
-      /*  double discountthreshold = 50.0;
+        double discountthreshold = 50.0;
         double discountrate = 0.1;
         if (allbill> discountthreshold) {
             double discountAmount = allbill * discountrate;
             allbill -= discountAmount;
             System.out.println(" 10% discount!");
-        }*/
+        }
 		 System.out.println( "Receipt");
 		/*  Discount discount = new Discount();
 	        double allbill = 75.0;
